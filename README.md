@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Muhammad Bilal 👋
 
-<!--
-**m-bilal-cs/m-bilal-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS Student @ University of Lahore (Semester 2)
+📍 Lahore, Pakistan
+🚀 Building projects daily | CareerOS Summer 2026
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- C++ | OOP | Data Structures
+- Git | GitHub
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Current Projects
+- **cpp-practice** — C++ fundamentals & OOP programs
+
+## 🎯 Goals
+- Secure a paid internship after Semester 3
+- Build a SaaS product by Semester 6
+- Become a professional Software Engineer
+
+## 📊 GitHub Stats
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-bilal-cs&show_icons=true&theme=dark)
+
+## 📫 Contact
+- Email: bilal.dev.cs2026@gmail.com
